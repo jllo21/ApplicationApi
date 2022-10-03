@@ -1,3 +1,3 @@
 # ApplicationApi
 
-Application Api Exercise
+Application Api Exercise using swashbuckle
